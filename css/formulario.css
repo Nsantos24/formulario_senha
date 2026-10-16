@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.container{
+    max-width:600px;
+    margin:0 auto;
+    background: rgb(224, 222, 222);
+    margin-top: 200px;
+
+   
+}
+label{
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left:40px ;
+   
+}
+
+input, select{
+    width: 500px;
+    padding: 8px;
+    margin-left: 40px;
+    
+    
+}
+.btn-cadastro, .btn-limpar{
+    background: rgb(42, 71, 201);
+    color: white;
+    padding: 10px;
+    border: 0;
+    margin: 10px;
+    cursor: pointer;
+    margin-left: 150px;
+    width: 300px;
+}
+.btn-limpar{
+    background: red ;
+    
+}
+h1{
+    margin-bottom: 30px;
+   text-align: center;
+   margin-top: 50px;
+   font-family: Arial, Helvetica, sans-serif;
+   padding-top: 20px;
+} 
+
